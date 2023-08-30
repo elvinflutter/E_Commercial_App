@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164817547391",
+    "project_id": "ecommercialapp-f4025",
+    "storage_bucket": "ecommercialapp-f4025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164817547391:android:85cf9468e53167887b4f4a",
+        "android_client_info": {
+          "package_name": "com.example.ecommercialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164817547391-s99dflecnerhk7oshs7s6bb81tnup3b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM72IrMfm4o7DskYFOGoWuNRSgugDb_sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164817547391-s99dflecnerhk7oshs7s6bb81tnup3b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
