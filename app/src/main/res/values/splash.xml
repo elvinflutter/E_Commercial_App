@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">#ffffff</item>
+        <item name="windowSplashScreenBackground">@color/g_line</item>
         <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
         <item name="postSplashScreenTheme">@style/Theme.AppCompat</item>
     </style>

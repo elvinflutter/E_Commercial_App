@@ -12,9 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ECommercialApp"
         tools:targetApi="31">
-
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.ShoppingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.LoginRegistrationActivity"
             android:exported="true"
             android:theme="@style/Theme.MyApp.MySplash">
             <intent-filter>
